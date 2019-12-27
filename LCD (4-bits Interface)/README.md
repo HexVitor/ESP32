@@ -49,7 +49,7 @@ blink_display(times)  # blink display x times
 
 ## Author
 
-**Vítor Carvalho** [HexVitor](https://github.com/HexVitor)
+**Vítor Carvalho** [HexVitor](https://github.com/HexVitor) *based on **Dave Hylands** [dhylands](https://github.com/dhylands)  [Python codes](https://github.com/dhylands/python_lcd)*
 
 ## License
 
