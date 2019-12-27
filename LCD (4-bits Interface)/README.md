@@ -1,5 +1,8 @@
 # LCD module (4-bits Interface)
 MicroPython LCD module for ESP32
+<p align = "center">
+  <img src = "https://github.com/HexVitor/ESP32/blob/master/Media/LCD_4bits_connection_example.png" alt = "LCD 4bits connection example" />
+</p>
 
 ## Environment
 
