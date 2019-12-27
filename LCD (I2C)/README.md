@@ -1,5 +1,8 @@
 # LCD module (I2C Interface)
 MicroPython LCD module for ESP32
+<p align = "center">
+  <img src = "https://github.com/HexVitor/ESP32/blob/master/Media/LCD_I2C_connection_example.png" alt = "Exemplo de conexão do LCD 4bits" />
+</p>
 
 ## Environment
 
