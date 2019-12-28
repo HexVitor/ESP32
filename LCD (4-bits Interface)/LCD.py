@@ -262,3 +262,8 @@ class LCD:
         sleep_us(500)
         self.EN.value(0)
         sleep_us(500)
+
+# test
+lcd = LCD(13, 12, 14, 27, 26, 25)
+lcd.begin()
+lcd.write("It works!")
