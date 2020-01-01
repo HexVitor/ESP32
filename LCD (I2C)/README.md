@@ -27,6 +27,7 @@ Mod: HD44780-based 16x2 LCD Display Module
 ```
 It works!
 ```
+Ps.: remove the test code before using the module officially.
 
 ## Functions
 
