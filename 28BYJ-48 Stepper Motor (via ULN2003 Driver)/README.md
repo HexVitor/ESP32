@@ -30,6 +30,8 @@ Mod: 28BYJ-48 Stepper Motor and ULN2003 Driver
 Yeah!
 ```
 
+Ps.: remove the test code before using the module officially.
+
 ## Functions
 
 To create an object:
