@@ -28,6 +28,8 @@ Mod: 5V buzzer module
 ♫ ♫ Ode to Joy ♫ ♫
 ```
 
+Ps.: remove the test code before using the module officially.
+
 ## Where to find more melodies
 
 1. Visit [arduino songs](https://github.com/robsoncouto/arduino-songs), find the melody note list, copy the notes and their durations (without copy the last comma of the list) and create a new list in your program with them. Maybe you need to remove the comments started with '//'.
