@@ -17,6 +17,19 @@ uOS: MicroPython v1.11 (2019-10-26)
 Mod: HD44780-based 16x2 LCD Display Module
 ```
 
+## How to use:
+
+1. connect your LCD module to ESP32 pins GND(VS), VIN(VD), 13(RS), 12(E), 14(D4), 27(D5), 26(D6), 25(D7), VIN(A) and GND(K), and pin V0 on the center pin of the potentiometer.
+
+2. With Thonny Python IDE, create a new empty file, copy and paste the code on LCD.py into this file and run it.
+
+3. if all works well, lcd displays the following message:
+```
+It works!
+```
+
+Ps.: remove the test code before using the module officially.
+
 ## Functions
 
 To create an object:
