@@ -202,9 +202,9 @@ class LCD:
     def blink_display(self, times, time_up = 500, time_down = 500):
         
         for i in range(times):
-            lcd.hide_display()
+            self.hide_display()
             sleep_ms(time_down)
-            lcd.show_display()
+            self.show_display()
             sleep_ms(time_up)
 
 
