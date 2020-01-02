@@ -89,6 +89,10 @@ class LCD:
         
         self.send(_DISPLAY_INIT)
         sleep_ms(5)
+        self.send(_DISPLAY_INIT)
+        sleep_ms(1)
+        self.send(_DISPLAY_INIT)
+        sleep_ms(1)
         
         if digits > 40: self.digits = 40
         else: self.digits = digits
