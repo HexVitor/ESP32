@@ -86,6 +86,10 @@ class LCD_I2C():
         
         self.partial_delivery(_DISPLAY_INIT)
         sleep_ms(5)
+        self.partial_delivery(_DISPLAY_INIT)
+        sleep_ms(1)
+        self.partial_delivery(_DISPLAY_INIT)
+        sleep_ms(1)
         
         self.partial_delivery(_BUS_4_BITS)
         
