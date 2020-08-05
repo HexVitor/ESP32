@@ -153,7 +153,7 @@ class LCD_I2C():
 
     def write(self, data):
         
-        width = len(data)
+        width = len(str(data))
         for i in range(width): self.send(ord(data[i]), _CHARACTER)
 
 
